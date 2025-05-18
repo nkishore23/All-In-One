@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004426434690",
+    "project_id": "all-in-one-8f445",
+    "storage_bucket": "all-in-one-8f445.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004426434690:android:a04669e872fd2b4953bc9b",
+        "android_client_info": {
+          "package_name": "com.berni.allinone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBNVeasBctj8rm8qOQWoRtSp3Wix1WCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
